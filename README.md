@@ -1,7 +1,7 @@
 # 🤖 Facial Emotion Recognition Using Deep Learning
 
 ## 📌 Project Description
-This project implements an **😊 Emotion Recognition System** using **Deep Learning**. It provides a user-friendly interface for uploading videos, detecting 👀 faces, and classifying emotions in real-time through a Flask-based web interface.
+This project implements an **😊 Emotion Recognition System** using **Deep Learning**. It provides a user-friendly interface for uploading 🎥 videos, detecting 👀 faces, and classifying 😊 emotions in real-time through a Flask-based web interface.
 
 ## 🌟 Features
 - Detects human faces in a 🎥 video.
@@ -39,8 +39,8 @@ Emotion_Recognition/
 │── 📂 templates/
 │   ├── 📝 index.html
 │
-│── 📂uploads/  # Directory for uploaded videos
-│── 🖥 app.py    # Main Flask application
+│── 📂uploads/  # Directory for 📤 uploaded 🎥 videos
+│── 🖥 app.py    # Main Flask 🖥 application
 │── 📜 Emotion Recognition Training.ipynb  # Model training notebook
 │── 📜 Emotion Recognition Testing.ipynb   # Testing notebook
 │── 📜 README.md
@@ -69,14 +69,14 @@ Emotion_Recognition/
     ```
     http://127.0.0.1:5000/
     ```
-5. 📤 Upload a video or start real-time facial emotion detection.
+5. 📤 Upload a video & start real-time facial emotion detection.
 
 ## 🎯 Usage
-- Click **Upload Video** and select a `.mp4` or `.avi` file.
+- Click **📤 Upload Video** and select a `.mp4` or `.avi` file.
 - Click **Upload and Detect Emotions** to start processing.
 - Click ⏸ **Pause** to stop detection temporarily.
 - Click ▶ **Play** to resume detection.
-- Alternatively, run `Emotion Recognition Testing.ipynb` for video-based or webcam detection.
+- Alternatively, run `📜 Emotion Recognition Testing.ipynb` for video-based or webcam detection.
 
 ## 👥 Contributors
 Feel free to 🖥 fork this repository and contribute to the project!
