@@ -1,7 +1,7 @@
 # 🤖 Facial Emotion Recognition Using Deep Learning
 
 ## 📌 Project Description
-This project implements an **Emotion Recognition System** using **Deep Learning**. It provides a user-friendly interface for uploading videos, detecting 👀 faces, and classifying emotions in real-time through a Flask-based web interface.
+This project implements an **😊 Emotion Recognition System** using **Deep Learning**. It provides a user-friendly interface for uploading videos, detecting 👀 faces, and classifying emotions in real-time through a Flask-based web interface.
 
 ## 🌟 Features
 - Detects human faces in a 🎥 video.
@@ -9,7 +9,7 @@ This project implements an **Emotion Recognition System** using **Deep Learning*
 - Provides 📡 real-time streaming of detection results.
 - Allows users to ⏸ **pause & ▶ resume** detection.
 
-## Dataset & Training
+## 📚 Dataset & Training
 - The **🗂 FER Dataset** (Facial Expression Recognition) was taken from Kaggle, containing `📂 train` and `📂 test` datasets.
 - **Training**: The `📜 Emotion Recognition Training.ipynb` was used to train the 🧠 deep learning model, generating:
   - `📜 emotion_model.json` (🛠 model architecture)
@@ -27,17 +27,17 @@ This project implements an **Emotion Recognition System** using **Deep Learning*
 ```
 Emotion_Recognition/
 │── 📂 haarcascades/
-│   ├── haarcascade_frontalface_default.xml
+│   ├── 📜 haarcascade_frontalface_default.xml
 │
 │── 📂 models/
-│   ├── emotion_model.json
-│   ├── emotion_model.weights.h5
+│   ├── 📜 emotion_model.json
+│   ├── 📜 emotion_model.weights.h5
 │
 │── 📂 static/css/
-│   ├── style.css
+│   ├── 🎨 style.css
 │
 │── 📂 templates/
-│   ├── index.html
+│   ├── 📝 index.html
 │
 │── 📂uploads/  # Directory for uploaded videos
 │── 🖥 app.py    # Main Flask application
