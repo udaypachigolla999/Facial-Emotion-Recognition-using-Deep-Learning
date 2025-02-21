@@ -84,5 +84,5 @@ Feel free to 🖥 fork this repository and contribute to the project!
 - [**Uday Pachigolla**](https://github.com/udaypachigolla999/)
 
 ## 📜 License
-This project is licensed under the 📜 MIT License - see the [📜 LICENSE](LICENSE) file for details.
+This project is licensed under the 📜 MIT License - see the 📜 [LICENSE](LICENSE) file for details.
 
